@@ -105,7 +105,7 @@ Well known solutions for recurrent problems
 
 - reuse what is scarce
 
-- what about concurrence?
+- what about the queue size?
 
 ### Prototype
 
