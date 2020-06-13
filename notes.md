@@ -73,7 +73,7 @@ reuse expensive or scarce resources
 
 ### structural
 
-Ways to clue you code pieces
+Ways to glue your code pieces
 
 ### behavioral
 
@@ -115,4 +115,4 @@ Well known solutions for recurrent problems
 
 ### Dependency injection
 
-- what about fill what is really needed and keep option what is nice to have?
+- what about fill what is really needed and keep optional what is nice to have?
