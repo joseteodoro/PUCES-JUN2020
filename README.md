@@ -15,4 +15,3 @@ Resources:
 
 [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 
-[Refactoring book](https://drive.google.com/file/d/1pYz9mNme3vQ7r9TYZgUJqOkjIpcq9tRA/view?usp=sharing)
