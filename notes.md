@@ -38,6 +38,8 @@
 
 - rigid vs flexible
 
+- easy vs hard
+
 - simple vs complex
 
 - what if we use a bit of both?
