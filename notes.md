@@ -1,5 +1,11 @@
 # A class about code desing and good practices
 
+#### Class structure
+
+- exercises (individual), multi choice quizes(individual), a good white board test in the end (group).
+
+Do it all and will be fine! :D
+
 ## Good practices
 
 ### Design principles
