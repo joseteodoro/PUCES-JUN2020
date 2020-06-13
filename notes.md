@@ -26,7 +26,7 @@ Do it all and will be fine! :D
 
 - composition is better then inheritance
 
-- keep same granularity and have naming and style consistent
+- keep same granularity and have naming , style and convention consistent
 
 - have well defined boundaries over components / packages
 
