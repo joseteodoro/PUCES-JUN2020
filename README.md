@@ -4,6 +4,7 @@
 
 [presentation](https://docs.google.com/presentation/d/1LRYBdlSJaoSbWMTjtlYlojLRVcnhJ3aCdSW0AVfB2Es/edit?usp=sharing)
 
+[Quiz](https://forms.gle/swTYNkL3u67c2R6N7)
 
 Resources:
 
