@@ -54,6 +54,8 @@ Do it all and will be fine! :D
 
 First of all, what is a pattern? Recurrent solutions for recurrent problems
 
+[Quiz](https://forms.gle/swTYNkL3u67c2R6N7)
+
 ### Object oriented programming
 
 - Abstraction, Polymorphism, Encapsulation and Inheritance
