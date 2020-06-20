@@ -50,11 +50,11 @@ Do it all and will be fine! :D
 
 - what if we use a bit of both?
 
+[Quiz](https://forms.gle/swTYNkL3u67c2R6N7)
+
 ## About patterns
 
 First of all, what is a pattern? Recurrent solutions for recurrent problems
-
-[Quiz](https://forms.gle/swTYNkL3u67c2R6N7)
 
 ### Object oriented programming
 
