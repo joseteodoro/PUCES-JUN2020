@@ -1,4 +1,4 @@
-# PUCES-JUN2020 A class about code desing, design patterns and good practices
+# A class about code desing, design patterns and good practices
 
 #### Class structure
 
