@@ -29,6 +29,10 @@ First of all, what is a pattern? Recurrent solutions for recurrent problems
     - minor (add features)
     - fixes (bug fixes)
 
+- duck typing (function are not checked if they exists)
+    - python
+    - js
+
 ### creational
 
 Hides complexity, 

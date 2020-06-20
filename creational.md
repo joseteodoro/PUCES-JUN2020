@@ -74,6 +74,11 @@ requires creating multiple new classes
 - what we do when there is no more resources?
 Throw error or enqueue?
 
+- db connection pool
+    - startup 4 connections (ready)
+    - +1 connection
+    - max 10 connections
+
 ### Prototype
 
 - reuse what is expensive to load
@@ -97,7 +102,7 @@ concrete classes of objects that you need to copy
 
 - be careful about concurrence
 
-#### Prototype Registry 
+#### Prototype Registry
 
 - provides an easy way to access frequently-used prototypes.
 It stores a set of pre-built objects that are ready to be copied.
