@@ -22,6 +22,13 @@ First of all, what is a pattern? Recurrent solutions for recurrent problems
 
 - stateful vs stateless
 
+- semantic versioning
+    - v1.4.2
+       Major.minor.fixes
+    - Major (break the contract)
+    - minor (add features)
+    - fixes (bug fixes)
+
 ### creational
 
 Hides complexity, 
