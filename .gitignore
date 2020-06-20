@@ -122,6 +122,3 @@ package-lock.json
 pnpm-lock.yaml
 
 .vscode
-
-#circuit-breaker-service migration files
-src/db/migrations/*circuit-breaker*
