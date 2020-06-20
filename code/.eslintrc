@@ -1,0 +1,31 @@
+{
+  "extends": [ "standard" ],
+  "plugins": [ "json" ],
+  "rules": {
+    "no-console": ["error", {"allow": ["error"]}],
+    "no-unused-expressions": "off",
+    "complexity": ["error", 7],
+    "eqeqeq": "error",
+    "object-shorthand": ["error", "properties"],
+    "max-statements": [ "error", { "max": 15 } ],
+    "arrow-parens": ["error", "as-needed"],
+    "comma-dangle": ["error", {
+      "arrays": "always-multiline",
+      "objects": "always-multiline",
+      "imports": "always-multiline",
+      "exports": "always",
+      "functions": "never"
+    }]
+  },
+  "globals": {
+    "it": true,
+    "describe": true,
+    "expect": true,
+    "sinon": true,
+    "before": true,
+    "beforeEach": true,
+    "after": true,
+    "afterEach": true,
+    "context": true
+  }
+}
