@@ -46,18 +46,32 @@
 
 #### Usage
 
-- Use the Composite pattern when you have to implement a tree-like object structure.
+- Using the Composite pattern makes sense only when the core model of your app can be represented as a tree.
 
 - Use the pattern when you want the client code to treat both simple and complex elements uniformly.
 
 #### Cons
 
-- It might be difficult to provide a common interface for class- es whose functionality differs too much. In certain scenarios, you’d need to overgeneralize the component interface, making it harder to comprehend.
+- It might be difficult to provide a common interface for classes whose functionality differs too much.
+In certain scenarios, you’d need to overgeneralize the component interface, making it harder to comprehend.
 
 ### Decorator
 
 - lets you attach new behaviors to objects by placing these objects inside
-  special wrapper objects that contain the behaviors
+  special wrapper objects that contain the behaviors.
+
+#### Usage
+
+- You can't change a third-party code but need to append behaviors
+
+- You need to combine various behaviors.
+
+#### Cons
+
+- It’s hard to implement a decorator in such a way that its behavior
+doesn’t depend on the order in the decorators stack.
+
+- The initial configuration code of layers might look pretty ugly.
 
 ### Facade
 
@@ -67,7 +81,16 @@
 
 #### Usage
 
+- When you have a lot of classes / artifacts, but want to expose only
+few for the clients.
+
+- When you want to create a single point of contact with your callers
+
 #### Cons
+
+- A facade can become a god object coupled to all classes of an app.
+
+- Be careful to not give more responsabilities than needed (like business logic on facade).
 
 ### Flyweight
 
@@ -77,14 +100,46 @@
 
 #### Usage
 
+- Reuse / share expensive resources
+
+- Be careful about mutations
+
 #### Cons
+
+- Can lead to complexity to reuse the expensive objects
+
+- Can lead to race conditions if the shared state are mutable
+
+- Can increase the time to the expensive resource be garbage collected
 
 ### Proxy
 
 - lets you provide a substitute or placeholder for another object. A proxy controls
   access to the original object, allowing you to perform something either before or
-  after the request gets through to the original object (lazy evaluation)
+  after the request gets through to the original object
+
+- Lazy evaluation
 
 #### Usage
 
+- Expensive resource dont need to be loaded before they're really needed
+
+- Dont eager what you are not sure if will be used
+
+- Access control (protection proxy). This is when you want only specific clients
+to be able to use the service object; for instance, when your objects are crucial
+parts of an operating system and clients are various launched applications (including
+malicious ones).
+
+- Local execution of a remote service (remote proxy). This is when the service object
+is located on a remote server.
+
+- Caching request results (caching proxy). This is when you need to cache results of
+client requests and manage the life cycle of this cache, especially if results are quite
+large.
+
 #### Cons
+
+- The code may become more complicated since you need to introduce a lot of new classes.
+
+- The response from the service might get delayed.
