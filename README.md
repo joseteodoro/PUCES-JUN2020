@@ -16,7 +16,7 @@ Do it all and will be fine! :D
 
 [Concurrency and paralellism](https://github.com/joseteodoro/PUCES-JUN2020/blob/master/concurrency_paralellism.md)
 
-[Quiz concorrência](https://forms.gle/5FLZrKngtXh4Wjev6)
+[Quiz Concurrency](https://forms.gle/5FLZrKngtXh4Wjev6)
 
 ## Design Patterns
 
@@ -27,6 +27,8 @@ Do it all and will be fine! :D
 [Creational](https://github.com/joseteodoro/PUCES-JUN2020/blob/master/creational.md)
 
 [Exercicies](https://github.com/joseteodoro/PUCES-JUN2020/blob/master/exercices/creational.md)
+
+[Quiz Creational](https://forms.gle/569f6H15SZDJNzom9)
 
 ### Structural
 
