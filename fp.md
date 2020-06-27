@@ -1,26 +1,38 @@
 ## Functional programming to improve quality
 
+Define functions to combine without imperative.
+
+f(x) = x + 1
+
+g(x) = x^2
+
+((x + 1)^2) =~ g( f(x) )
+
+const banana = f(args)
+const b2 = g(banana)
+const b3 = h( b2, banana ) =~ h( g( f(x) ), f(x) )
+
 ```
 // Let have some users on!
 const users = []
 const data = []
 ```
 
-### map
+### x map
 
-- Transform items returning changed ones
+- Transform items returning changed ones without side effects
 
-- Parallel
+- Parallel / concurrent
 
 - `list states!`
 
-### filter
+### x filter
 
 - filter list items and return only those ones matching a predicate
 
 - `all users from Oregon!`
 
-### reduce
+### x reduce
 
 - Join a lot of items in a single result (like a for each)
 
@@ -39,7 +51,7 @@ a couple of parts
 
 - flip arguments order
 
-### Curry
+### x Curry
 
 - Partial application to avoid know a lot of other artifacts when
 calling a function
@@ -50,7 +62,7 @@ calling a function
 
 - picks an attribute / field and returns only that instead of the entire object
 
-### prop
+### x prop
 
 - function to returns an attribute / field
 
@@ -66,7 +78,7 @@ calling a function
 
 - get a list and group by some criteria
 
-### compose / pipe
+### x compose / pipe
 
 - Concatenate functions / steps to do not need to have intermediate vars / consts
 

@@ -8,7 +8,7 @@ const reducer = (acc, next) => {
   return acc
 }
 
-describe('Simple test', () => {
+describe.skip('Simple test', () => {
   it('i', () => {
     const data = require('../samples/data.json')
     console.log('indexed: ', JSON.stringify(
