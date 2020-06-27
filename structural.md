@@ -23,7 +23,7 @@
 
 ### Bridge
 
-- SPI e API
+- Specification Program Interface e Application Program Interface
 
 - lets you split a large class or a set of closely related classes into
   two separate hierarchies—abstraction and implementation

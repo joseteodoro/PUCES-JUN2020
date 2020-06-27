@@ -15,3 +15,5 @@ Considere que atributos em HTML possuem sempre o conteúdo em formato String. Po
 `<b><i><span class=”banana”>meu texto estiloso!</span></i></b>`
 
 Que padrões de projeto vocês conseguem usar aqui?
+
+Limite-se aos elementos: a, p, span, italico, negrito
