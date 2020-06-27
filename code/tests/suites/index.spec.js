@@ -3,7 +3,18 @@ const R = require('ramda')
 
 const build = size => [...new Array(size)]
 
+const reducer = (acc, next) => {
+  acc[next.id] = next
+  return acc
+}
+
 describe('Simple test', () => {
+  it('i', () => {
+    const data = require('../samples/data.json')
+    console.log('indexed: ', JSON.stringify(
+      data.reduce(reducer, {})
+    ))
+  })
   it.skip('looks how it works', () => {
     const full = build(300)
       .map(() => faker.helpers.createCard())
