@@ -152,8 +152,6 @@ describe.only('fp', () => {
     console.log(isMassachusettsUser(user))
 
     // map(pathEquals('address')('state')('Massachusetts'))
-    // filter({  })
-    // find({  })
 
     // connection
     // const query => connection => clazz => sql => connection.sqlQuery(sql).map(clazz)

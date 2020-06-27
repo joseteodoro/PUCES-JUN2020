@@ -1,5 +1,7 @@
 ## Structural Patterns
 
+- Strategies to couple / glue your components
+
 ### Adapter
 
 - allows objects with incompatible interfaces to collaborate
