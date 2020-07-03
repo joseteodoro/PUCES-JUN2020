@@ -16,4 +16,6 @@ Considere que atributos em HTML possuem sempre o conteúdo em formato String. Po
 
 Que padrões de projeto vocês conseguem usar aqui?
 
-Limite-se aos elementos: a, p, span, italico, negrito
+Limite-se aos elementos: a, p, span, italico, negrito. 
+Comecem por fazer os exemplos funcionares, depois tentem criar o `a` e `p` para 
+avaliar o quanto é dificil adicionar coisas na arquitetura de vocês.
