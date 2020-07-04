@@ -93,3 +93,5 @@ calling a function
 [Professor Frisby classes - introduction to fp](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
 
 [FP patterns (a bit advanced)](https://medium.com/free-code-camp/functional-programming-patterns-cookbook-3a0dfe2d7e0a)
+
+[In javascript, look for Ramda](http://ramdajs.com/docs/)
