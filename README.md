@@ -40,6 +40,12 @@ Do it all and will be fine! :D
 
 [Exercicies](https://github.com/joseteodoro/PUCES-JUN2020/blob/master/exercices/structural.md)
 
+### Behavioral
+
+[Behavioral](https://github.com/joseteodoro/PUCES-JUN2020/blob/master/behavioral.md)
+
+[Exercicies](https://github.com/joseteodoro/PUCES-JUN2020/blob/master/exercices/behavioral.md)
+
 # Resources:
 
 [refactoring.guru](https://refactoring.guru/design-patterns)
@@ -49,4 +55,3 @@ Do it all and will be fine! :D
 [solution architecture patterns](https://github.com/chanakaudaya/solutions-architecture-patterns)
 
 [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
-
