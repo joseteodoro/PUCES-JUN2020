@@ -18,6 +18,10 @@ Do it all and will be fine! :D
 
 [Quiz Concurrency](https://forms.gle/5FLZrKngtXh4Wjev6)
 
+## A bit about FP
+
+[FP](https://github.com/joseteodoro/PUCES-JUN2020/blob/master/fp.md)
+
 ## Design Patterns
 
 [Design patterns](https://github.com/joseteodoro/PUCES-JUN2020/blob/master/design_patterns.md)
