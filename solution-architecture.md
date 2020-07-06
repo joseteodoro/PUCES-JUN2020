@@ -4,10 +4,13 @@
 
 - some components used on solution architecture
 
-### Messaging (async)
+### Calls (sync / async)
 
+sync: volta na hora
+- endpoints
+
+async: topa esperar um pouco
 - queues
-
 - topics
 
 ### Load balancers

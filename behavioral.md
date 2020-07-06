@@ -102,7 +102,7 @@ layer between senders and receivers.
 
 - The code become quite flexibe with all the flexibility's problems.
 
-### Chain of Responsibility
+### Chain of Responsibility <--- CoR
 
 - Lets you pass requests along a chain of handlers. Upon receiving a request,
 each handler decides either to process the request or to pass it to the next

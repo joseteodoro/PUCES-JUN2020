@@ -40,11 +40,15 @@ Do it all and will be fine! :D
 
 [Exercicies](https://github.com/joseteodoro/PUCES-JUN2020/blob/master/exercices/structural.md)
 
+[Quiz](https://forms.gle/UE8LouScQfpF1JKi6)
+
 ### Behavioral
 
 [Behavioral](https://github.com/joseteodoro/PUCES-JUN2020/blob/master/behavioral.md)
 
 [Exercicies](https://github.com/joseteodoro/PUCES-JUN2020/blob/master/exercices/behavioral.md)
+
+[Quiz](https://forms.gle/nf7BZHo6kjPmrRrZ6)
 
 # Resources:
 
