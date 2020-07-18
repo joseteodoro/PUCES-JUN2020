@@ -4,7 +4,9 @@ Pacientes / enfermeiros aplicando medicamentos
 com um aparelho eletronico e essa aplicação sendo transmitida
 por bluetooth para o smartphone que envia os dados pra gente.
 
-- Vamos considerar picos de envio das 8hs ás 12 hs da manhã.
+- Vamos considerar picos de envio das 8hs ás 12 hs da manhã com
+dezenas de milhares de usuários por minuto. No restante do dia
+a taxa fica em torno de milhares por minuto (24x7);
 
 - Consentimento está armazenado num serviço externo;
 
