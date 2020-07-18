@@ -13,19 +13,19 @@ async: topa esperar um pouco
 - queues
 - topics
 
-### Load balancers
-
 ### Batch jobs
 
 - schedules
 
-### Cache
-
-- redis, memcached
+### Load balancers
 
 ### distribuited config systems
 
 - etcd, zookeeper
+
+### Cache
+
+- redis, memcached
 
 ### databases
 
