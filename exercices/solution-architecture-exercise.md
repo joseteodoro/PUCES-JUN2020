@@ -17,7 +17,7 @@ a taxa fica em torno de milhares por minuto (24x7);
 - Podemos ter consistencia eventual;
 
 - Paciente inputa dados com o smartphone, mas também possui um 
-app para consultar seus inputs / medicamentos que recebeu;
+site para consultar seus inputs / medicamentos que recebeu;
 
 - Resultados de exames podem ser coletados algumas vezes por dia, sem
 a necessidade do paciente intervir;
