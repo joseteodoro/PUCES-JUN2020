@@ -32,3 +32,7 @@ async: topa esperar um pouco
 - CAP theorem (what is more important?)
 
 [Visual guide to CAP](http://blog.nahurst.com/visual-guide-to-nosql-systems)
+
+### Our example
+
+![Example](https://github.com/joseteodoro/PUCES-JUN2020/raw/master/ES-2020-SOLUTION_ARCHITECTURE.png)
