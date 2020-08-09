@@ -59,3 +59,6 @@ Do it all and will be fine! :D
 [solution architecture patterns](https://github.com/chanakaudaya/solutions-architecture-patterns)
 
 [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+
+
+
